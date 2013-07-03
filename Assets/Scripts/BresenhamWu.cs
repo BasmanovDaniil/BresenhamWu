@@ -226,9 +226,9 @@ public class BresenhamWu: MonoBehaviour
             Swap(ref x0, ref x1);
             Swap(ref y0, ref y1);
         }
-        float dx = x1 - x0;
-        float dy = Math.Abs(y1 - y0);
-        float error = dx / 2;
+        int dx = x1 - x0;
+        int dy = Math.Abs(y1 - y0);
+        int error = dx / 2;
         int ystep = (y0 < y1) ? 1 : -1;
         int y = y0;
         for (int x = x0; x <= x1; x++)
