@@ -1,5 +1,6 @@
 BresenhamWu
 ===========
+![](http://habrastorage.org/storage3/cbd/136/ba7/cbd136ba73fb93bced85a2fdeb126615.png)
 
 Реализация алгоритмов рисования линий Брезенхема и У на C# для Unity3d.
 
