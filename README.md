@@ -1,3 +1,5 @@
+# Этот репозиторий устарел. Последнюю версию смотрите в [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit).
+
 BresenhamWu
 ===========
 ![](http://habrastorage.org/storage3/cbd/136/ba7/cbd136ba73fb93bced85a2fdeb126615.png)
